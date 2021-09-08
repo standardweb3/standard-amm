@@ -8,5 +8,5 @@ Code from [Uniswap V2](https://github.com/Uniswap/uniswap-v2-core/tree/27f6354ba
 To see all diffs:
 
 ```
-$ git diff {} .
+$ git diff babb3f1be5c2f2e0ac441daedc3c3ce3056b1374 .
 ```
