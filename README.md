@@ -11,5 +11,5 @@ Code from [MasterChef V2](https://github.com/sushiswap/sushiswap/blob/canary/con
 To see all diffs:
 
 ```
-$ git diff babb3f1be5c2f2e0ac441daedc3c3ce3056b1374 .
+$ git diff 4a1baf2986973ca2799955368ebd36be5900ebb7 .
 ```
