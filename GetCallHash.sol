@@ -21,7 +21,7 @@ contract CalHash {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'39ddc11c41461939e3b92378ed42b8487d387ae8367d92cd71d49f582464949b' // init code hash
+                hex'99c8de1eb60d37a95c365ab0a29e56b15d6a3c09bb02d3c8c64343bcaf6afff0' // init code hash
             ))));
     }
 }
